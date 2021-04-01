@@ -1,0 +1,232 @@
+body{
+    background-color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    color: #071c4d;
+    
+}
+
+nav{
+    margin-top: 15px;
+
+    
+}
+.navbar-brand{
+    img{
+        max-height: 25px;
+    }
+}
+
+.navbar-light{
+    .navbar-nav{
+        .nav-link{
+            font-size: 18px;
+            color: #5A6772;
+
+            &.active{
+                font-weight: bold;
+                color: #071c4d;                
+            }
+        }
+    }
+}
+
+.btn-sign-up{
+    background-color: #150544;
+    color: #fff;
+
+    &:hover{
+        background-color: #071c4d;
+        color: #fff;
+    }
+}
+
+// section features
+.section-features-heading{
+    padding-top: 80px;
+    min-height: 577px;
+
+    h2{
+        font-weight: 700;
+        color: #150544;
+        font-size: 40px;
+    }
+    p{
+        font-size: 18px;
+        color: #5A6772;
+    }
+}
+
+.section-features-content{
+    
+    margin-top: -300px;
+    padding-bottom: 80px;
+
+    .card-features{
+        padding-bottom: 40px 20 10px;
+        border: none;
+        margin-bottom: 10px;
+
+        .features-content{
+            min-height: 230px;
+
+            h3{
+                font-size: 18px;
+                color: #150544;
+                font-weight: 500;
+
+            }
+            p{
+                font-size: 16px;
+                color: #5A6772;
+                
+            }
+        }
+    }
+
+}
+
+.section-friendly-heading{
+    h2{
+        font-size: 40px;
+        color: #150544;
+        font-weight: 700;
+    }
+    p{
+        font-size: 18px;
+        color: #5A6772;
+    }
+}
+
+.section-friendly-content{
+    padding-bottom: 80px;
+    
+    margin-bottom: 20px;
+
+    .card-friendly{
+        padding-bottom: 40px 20 10px;
+        border: none;
+        margin-bottom: 10px;
+
+       
+
+        .friendly-content{
+            min-height: 480px;
+            min-width: 320px;
+    
+            h2{
+                font-size: 52px;
+                font-weight: 700;
+            }
+    
+            span{
+                font-size: 16px;
+                color: #150544;
+                font-weight: lighter;
+            }
+
+            h3{
+                width: 260px;
+            }
+    
+    
+            p{
+                font-size: 16px;
+                color: #150544;
+                font-weight: lighter;
+            }
+    
+            form{
+                margin-bottom: 10px;
+                
+                .btn-trial-first{
+                    min-width: 260px;
+                    min-height: 50px;
+                    background-color: #6552FF;
+                    color: #fff;
+    
+                    &:hover{
+                        background-color: #150544;
+                        color: #fff;
+                    }
+                }
+            }
+    
+        }
+    }
+
+    .card-friendly-content{
+        padding-bottom: 40px 20 10px;
+        border-color: #150544;
+        margin-bottom: 10px;
+
+        h6{
+            background-color: #150544;
+            color: #fff;
+        }
+    
+        .friendly-content{
+            min-height: 480px;
+            min-width: 320px;
+    
+            h2{
+                font-size: 52px;
+                font-weight: 700;
+            }
+    
+            span{
+                font-size: 16px;
+                color: #150544;
+                font-weight: lighter;
+            }
+
+            h3{
+                width: 260px;
+            }
+            
+            p{
+                font-size: 16px;
+                color: #150544;
+                font-weight: 600;
+            }
+    
+            form{
+                margin-bottom: 10px;
+                
+                .btn-get-started{
+                    min-width: 260px;
+                    min-height: 50px;
+                    background-color: #150544;
+                    color: #fff;
+    
+                    &:hover{
+                        background-color: #071c4d;
+                        color: #fff;
+                    }
+                }
+            }
+    
+        }
+    }
+   
+
+    
+}
+
+
+header{
+
+    padding: 180px 0px 150px;
+    margin-top: -60px;
+    background-image: url('../images/bg.png');
+    background-size: cover;
+
+
+    h3,h5,p{
+        color: #fff;
+    }
+    h3{
+       margin-top: 20px;
+    }
+
+
+}

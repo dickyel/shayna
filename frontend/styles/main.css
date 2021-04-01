@@ -1,0 +1,208 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+  color: #071c4d;
+}
+
+nav {
+  margin-top: 15px;
+}
+
+.navbar-brand img {
+  max-height: 25px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-size: 18px;
+  color: #5A6772;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: #071c4d;
+}
+
+.btn-sign-up {
+  background-color: #150544;
+  color: #fff;
+}
+
+.btn-sign-up:hover {
+  background-color: #071c4d;
+  color: #fff;
+}
+
+.section-features-heading {
+  padding-top: 80px;
+  min-height: 577px;
+}
+
+.section-features-heading h2 {
+  font-weight: 700;
+  color: #150544;
+  font-size: 40px;
+}
+
+.section-features-heading p {
+  font-size: 18px;
+  color: #5A6772;
+}
+
+.section-features-content {
+  margin-top: -300px;
+  padding-bottom: 80px;
+}
+
+.section-features-content .card-features {
+  padding-bottom: 40px 20 10px;
+  border: none;
+  margin-bottom: 10px;
+}
+
+.section-features-content .card-features .features-content {
+  min-height: 230px;
+}
+
+.section-features-content .card-features .features-content h3 {
+  font-size: 18px;
+  color: #150544;
+  font-weight: 500;
+}
+
+.section-features-content .card-features .features-content p {
+  font-size: 16px;
+  color: #5A6772;
+}
+
+.section-friendly-heading h2 {
+  font-size: 40px;
+  color: #150544;
+  font-weight: 700;
+}
+
+.section-friendly-heading p {
+  font-size: 18px;
+  color: #5A6772;
+}
+
+.section-friendly-content {
+  padding-bottom: 80px;
+  margin-bottom: 20px;
+}
+
+.section-friendly-content .card-friendly {
+  padding-bottom: 40px 20 10px;
+  border: none;
+  margin-bottom: 10px;
+}
+
+.section-friendly-content .card-friendly .friendly-content {
+  min-height: 480px;
+  min-width: 320px;
+}
+
+.section-friendly-content .card-friendly .friendly-content h2 {
+  font-size: 52px;
+  font-weight: 700;
+}
+
+.section-friendly-content .card-friendly .friendly-content span {
+  font-size: 16px;
+  color: #150544;
+  font-weight: lighter;
+}
+
+.section-friendly-content .card-friendly .friendly-content h3 {
+  width: 260px;
+}
+
+.section-friendly-content .card-friendly .friendly-content p {
+  font-size: 16px;
+  color: #150544;
+  font-weight: lighter;
+}
+
+.section-friendly-content .card-friendly .friendly-content form {
+  margin-bottom: 10px;
+}
+
+.section-friendly-content .card-friendly .friendly-content form .btn-trial-first {
+  min-width: 260px;
+  min-height: 50px;
+  background-color: #6552FF;
+  color: #fff;
+}
+
+.section-friendly-content .card-friendly .friendly-content form .btn-trial-first:hover {
+  background-color: #150544;
+  color: #fff;
+}
+
+.section-friendly-content .card-friendly-content {
+  padding-bottom: 40px 20 10px;
+  border-color: #150544;
+  margin-bottom: 10px;
+}
+
+.section-friendly-content .card-friendly-content h6 {
+  background-color: #150544;
+  color: #fff;
+}
+
+.section-friendly-content .card-friendly-content .friendly-content {
+  min-height: 480px;
+  min-width: 320px;
+}
+
+.section-friendly-content .card-friendly-content .friendly-content h2 {
+  font-size: 52px;
+  font-weight: 700;
+}
+
+.section-friendly-content .card-friendly-content .friendly-content span {
+  font-size: 16px;
+  color: #150544;
+  font-weight: lighter;
+}
+
+.section-friendly-content .card-friendly-content .friendly-content h3 {
+  width: 260px;
+}
+
+.section-friendly-content .card-friendly-content .friendly-content p {
+  font-size: 16px;
+  color: #150544;
+  font-weight: 600;
+}
+
+.section-friendly-content .card-friendly-content .friendly-content form {
+  margin-bottom: 10px;
+}
+
+.section-friendly-content .card-friendly-content .friendly-content form .btn-get-started {
+  min-width: 260px;
+  min-height: 50px;
+  background-color: #150544;
+  color: #fff;
+}
+
+.section-friendly-content .card-friendly-content .friendly-content form .btn-get-started:hover {
+  background-color: #071c4d;
+  color: #fff;
+}
+
+header {
+  padding: 180px 0px 150px;
+  margin-top: -60px;
+  background-image: url("../images/bg.png");
+  background-size: cover;
+}
+
+header h3, header h5, header p {
+  color: #fff;
+}
+
+header h3 {
+  margin-top: 20px;
+}
+/*# sourceMappingURL=main.css.map */
